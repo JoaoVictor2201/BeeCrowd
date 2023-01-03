@@ -4,5 +4,5 @@ export function problem (lines) {
 
     const X = Number(A) + Number(B);
 
-    console.log('X = ' + X);
+    console.log(`X = ${X}`);
 }
